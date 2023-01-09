@@ -55,7 +55,7 @@
 - Go to Projects folder present inside public `/public/Projects`.-. Create a folder with your name followed by the project name. For example `SandeepJokeGenerator`. Follow PascalCase naming convention.
 - Put all the files - html, css, js, images, etc. - inside this created folder.
 - Make sure the html file is named `index.html`.
-- After completing the project implementation take a screen shot or gif of the project and paste it inside the assets folder present inside public `pubic/assets`. Adding a gif is preferred.commiting
+- After completing the project implementation take a screen shot or gif of the project and paste it inside the assets folder present inside public `public/assets`. Adding a gif is preferred.commiting
 - Create a `info.txt` file and add all the details carefully. Look at the template for reference.
 
 ### View Added Project
